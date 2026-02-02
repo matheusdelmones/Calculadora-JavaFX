@@ -1,0 +1,9 @@
+#display{
+    -fx-font-size: 20px; 
+    -fx-background-color: #dcdada;
+    -fx-border-color: black; 
+    -fx-min-height: 50px; 
+    -fx-padding: 10px;
+
+    -fx-alignment: center-right;
+}
